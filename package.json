@@ -1,0 +1,14 @@
+{
+  "name": "simple-form",
+  "version": "1.0.0",
+  "description": "copy from laracasts 19",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "form"
+  ],
+  "author": "chuoke@qq.com",
+  "license": "ISC"
+}
